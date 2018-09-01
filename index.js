@@ -58,8 +58,3 @@ function removeFromCart(item) {
 function placeOrder(cardNumber) {
   // write your code here
 }
-addToCart("banana")
-addToCart("apple")
-addToCart("pear")
-removeFromCart("apple")
-removeFromCart("fsd")
